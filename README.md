@@ -24,3 +24,6 @@ You must read the given dataset and answer the following queries. For each query
 
 ## How to Run
 This project is a menu-driven application. Compile main.cpp, run the resulting exe and select whichever query you wish to see.
+
+## Contact
+Need help? Got any queries? Feel free to hit me up at sanakahnn@gmail.com.
